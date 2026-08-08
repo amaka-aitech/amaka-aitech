@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Amaka 👋
 
-<!--
-**amaka-aitech/amaka-aitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Operations & Automation Professional | Fintech Operations Leader
 
-Here are some ideas to get you started:
+I am an operations professional with a background in fintech, business management, and regional operations leadership, currently building expertise in AI Operations, AI Automation, AI Governance, and Enterprise AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about using AI and automation to improve business processes, increase operational efficiency, reduce risk, and create scalable solutions.
+
+## 🚀 Currently Learning
+
+- AI Operations
+
+- AI Automation & Workflow Design
+
+- AI Governance & Risk Management
+
+- AI Safety & Security
+
+- APIs, Webhooks & Integrations
+
+- Enterprise AI
+
+- Process Optimization
+
+## 🛠️ Tools & Technologies
+
+- ChatGPT
+
+- Zapier
+
+- Google Sheets
+
+- Google Forms
+
+- APIs & Webhooks
+
+- AI Workflow Automation
+
+## 📂 Portfolio
+
+My portfolio is currently being developed as part of my AI Operations & Automation journey.
+
+Projects coming soon:
+
+- AI Operations Toolkit
+
+- AI Governance & Risk Assessment
+
+- AI Customer Support Automation
+
+- AI Employee Onboarding Workflow
+
+- AI Research Assistant
+
+## 🎯 Career Focus
+
+I am building practical AI Operations and Automation solutions that bridge the gap between **AI technology and real-world business operations.**
+
+---
+
+📍 Based in Nigeria | 🌍 Open to Remote Opportunities
+
+
+
